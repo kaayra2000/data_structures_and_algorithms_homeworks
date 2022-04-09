@@ -13,8 +13,8 @@ You can use with numerical commands in terminal.
 * Download `GCC`  or `MingW32` Compiler 
 
 ```
-git clone https://github.com/kaayra2000/numerical_analysis/
-cd numerical_analysis
+git clone https://github.com/kaayra2000/data_structures_and_algorithms_homeworks
+cd data_structures_and_algorithms_homeworks
 gcc xxxxxxx.c -o main.exe
 main.exe
 ```
