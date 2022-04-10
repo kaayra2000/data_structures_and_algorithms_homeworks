@@ -2,6 +2,8 @@
 ## What Does It Include
 * zero_one_comparator
 * * It comparates negative or positive number's two's complements zero and ones  with stack logic.
+* heap
+* * It construct heap data structer.
 ## How can run
 
 You can use with numerical commands in terminal.
