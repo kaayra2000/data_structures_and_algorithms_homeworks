@@ -4,6 +4,8 @@
 * * It comparates negative or positive number's two's complements zero and ones  with stack logic.
 * heap
 * * It construct heap data structer.
+* fileStoreWithTree
+* * It stores and separates by file name words from files with binary search tree logic. It is very useful to use.
 ## How can run
 
 You can use with numerical commands in terminal.
