@@ -6,6 +6,8 @@
 * * It construct heap data structer.
 * fileStoreWithTree
 * * It stores and separates by file name words from files with binary search tree logic. It is very useful to use.
+* MSTAddElement
+* * It finds the longest path that can be deleted based on the new path given and uptade it in Minimum Spanning Tree.
 ## How can run
 
 You can use with numerical commands in terminal.
